@@ -1,1 +1,2 @@
 # python_challenge
+This challenge was created to analyze financial records of a company as well as a vote-counting process for a small rural town utilizing Python. Some resources used to complete this assignment included the "ask the class" channel for Berkeley Data Analytics, teaching assistant advice during office hours, and several search ups for formatting purposes. Some of these included percentage formatting in Python on askpython.com, and troubleshooting value errors of decodingweb.dev. 
